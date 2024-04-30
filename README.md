@@ -1,5 +1,4 @@
 ***
-![Adelie](https://upload.wikimedia.org/wikipedia/commons/a/a9/Adelie_Penguin2.jpg)
 # pda.assessment
 ## Author: Lucia Macakova
 ## Data Analyses of Penguins Dataset

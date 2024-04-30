@@ -1,5 +1,5 @@
 ***
-![Adelie](https://upload.wikimedia.org/wikipedia/commons/4/40/Adelie_Penguins_on_iceberg.jpg)
+![Adelie](https://upload.wikimedia.org/wikipedia/commons/a/a9/Adelie_Penguin2.jpg)
 # pda.assessment
 ## Author: Lucia Macakova
 ## Data Analyses of Penguins Dataset

@@ -1,5 +1,4 @@
 ***
-![Palmer](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Antarctica_relief_location_map.jpg/240px-Antarctica_relief_location_map.jpg)\n",
 ![Adelie](https://upload.wikimedia.org/wikipedia/commons/4/40/Adelie_Penguins_on_iceberg.jpg)
 # pda.assessment
 ## Author: Lucia Macakova

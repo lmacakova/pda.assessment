@@ -1,4 +1,3 @@
-***
 # pda.assessment
 ## Author: Lucia Macakova
 ## Data Analyses of Penguins Dataset

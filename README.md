@@ -1,5 +1,4 @@
 ***
-[![App Platorm](https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png)](https://www.digitalocean.com/products/app-platform)
 [![Adelie](https://upload.wikimedia.org/wikipedia/commons/4/40/Adelie_Penguins_on_iceberg.jpg)](https://commons.wikimedia.org/wiki/File:Adelie_Penguins_on_iceberg.jpg)
 # pda.assessment
 ## Author: Lucia Macakova

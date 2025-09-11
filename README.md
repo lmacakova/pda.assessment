@@ -1,7 +1,7 @@
 ![adelie penguin on rock shore](https://images.pexels.com/photos/31308007/pexels-photo-31308007.jpeg)
 # Principles of Data Analytics
 ## Author: Lucia Macakova
-
+---
 ## About Project:
 This is my project for the module Principles of Data Analytics. It is my analysis of Palmer Penguins Dataset
 
@@ -26,4 +26,5 @@ email: G00439449@atu.ie
 ### Resources
 [^1]:  Gorman KB, Williams TD, Fraser WR (2014). Ecological sexual dimorphism and environmental variability within a community of Antarctic penguins (genus Pygoscelis). PLoS ONE 9(3):e90081. https://doi.org/10.1371/journal.pone.0090081
 [^2]:  https://allisonhorst.github.io/palmerpenguins/
+
 

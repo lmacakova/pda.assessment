@@ -13,19 +13,6 @@ The Palmers Penguins dataset package contains data about 344 penguins of genus [
 
 ---
 
-### About Penguins Dataset: 
-The dataset contains data in 7 columns:
--   species
--   island
--   bill length in mm
--   bill depth in mm,
--   flipper length in mm,
--   body mass in g
--   sex\
-This dataset is the simplified version of penguins_raw.
-
----
-
 ### About Penguins Dataset:
 The dataset contains data in 7 columns: 
 -   species

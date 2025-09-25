@@ -26,9 +26,16 @@ This dataset is the simplified version of penguins_raw.
 
 ---
 
-### About Penguins Dataset
-The dataset contains data in 7 columns: species, island, bill length in mm, bill depth in mm, flipper length in mm, body mass in g, and sex. This dataset is the simplified version of penguins_raw.
->>>>>>> db086f0784549d32007ecd0df93714cd19925e78
+### About Penguins Dataset:
+The dataset contains data in 7 columns: 
+-   species
+-   island
+-   bill length in mm
+-   bill depth in mm
+-   flipper length in mm
+-   body mass in g
+-   sex.\
+This dataset is the simplified version of penguins_raw.
 
 ---
 
@@ -52,6 +59,8 @@ email: G00439449@atu.ie
 
 ---
 
-### Resources
+### References:
 [^1]:   Gorman KB, Williams TD, Fraser WR (2014). Ecological sexual dimorphism and environmental variability within a community of Antarctic penguins (genus Pygoscelis). PLoS ONE 9(3):e90081. https://doi.org/10.1371/journal.pone.0090081
 [^2]:   https://allisonhorst.github.io/palmerpenguins/
+
+
